@@ -1,0 +1,10 @@
+print(10)
+print(0b10)
+print(0o10)
+print(0x10)
+value=65
+print("bin :",bin(value))
+print("oct :",oct(value))
+print("hex :",hex(value))
+print("char :",chr(value))
+print("ord :",ord('A'))
